@@ -1,0 +1,17 @@
+name: kaggle
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.10
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - ipykernel
+  - ipython
+  - jupyter
+  - matplotlib
+  - requests
+  - nb_conda_kernels
+  - kaggle
