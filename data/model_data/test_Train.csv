@@ -1,0 +1,39 @@
+,work_year,experience_level,employment_type,job_title,salary,salary_currency,employee_residence,remote_ratio,company_location,company_size
+3,2020,MI,FT,Machine Learning Engineer,299000,CNY,CN,0,CN,M
+4,2020,MI,FT,Product Data Analyst,450000,INR,IN,100,IN,L
+5,2020,SE,FT,Data Engineer,720000,MXN,MX,0,MX,S
+6,2020,SE,FT,Data Scientist,60000,EUR,GR,100,US,L
+7,2020,MI,FT,Data Analyst,41000,EUR,FR,50,FR,L
+10,2020,EN,FT,AI Scientist,300000,DKK,DK,50,DK,S
+13,2020,EN,PT,Data Scientist,19000,EUR,IT,50,IT,S
+14,2020,SE,FT,Machine Learning Engineer,40000,EUR,HR,100,HR,S
+15,2020,MI,FT,Data Scientist,37000,EUR,FR,50,FR,S
+16,2021,SE,FT,Data Analytics Engineer,67000,EUR,DE,100,DE,L
+18,2021,EN,FT,Data Science Consultant,65000,EUR,DE,100,DE,S
+19,2021,MI,FT,Computer Vision Software Engineer,81000,EUR,DE,100,US,S
+20,2021,MI,FT,BI Data Analyst,11000000,HUF,HU,50,US,L
+21,2021,MI,FT,Data Analyst,37456,GBP,GB,50,GB,L
+22,2021,MI,FT,Research Scientist,235000,CAD,CA,100,CA,L
+28,2021,MI,FT,Data Scientist,160000,SGD,SG,100,IL,M
+32,2021,EX,FT,Data Science Consultant,59000,EUR,FR,100,ES,S
+35,2021,MI,FT,Data Scientist,52000,EUR,DE,50,AT,M
+37,2021,MI,FT,Data Scientist,69600,BRL,BR,0,BR,S
+38,2021,EN,FT,Machine Learning Engineer,21000,EUR,DE,50,DE,M
+40,2021,EN,PT,Computer Vision Engineer,180000,DKK,DK,50,DK,S
+41,2021,EN,FT,Big Data Engineer,1200000,INR,IN,100,IN,L
+47,2021,EN,FT,Data Engineer,55000,EUR,DE,50,DE,M
+51,2021,MI,FT,Machine Learning Engineer,43200,EUR,IT,50,IT,L
+55,2022,MI,FT,Data Engineer,60000,GBP,GB,0,GB,M
+69,2022,MI,FT,Machine Learning Engineer,95000,GBP,GB,0,GB,M
+73,2022,MI,FT,Data Engineer,45000,EUR,GR,100,GR,M
+76,2022,MI,FT,Data Engineer,45000,EUR,ES,100,ES,M
+77,2022,MI,FT,Data Engineer,70000,GBP,GB,100,GB,M
+79,2022,MI,FT,NLP Engineer,240000,CNY,US,50,US,L
+80,2022,MI,FT,Business Data Analyst,1400000,INR,IN,100,IN,M
+81,2022,MI,FT,Data Scientist,2400000,INR,IN,100,IN,L
+85,2022,MI,FT,Data Scientist,140000,GBP,GB,0,GB,M
+86,2022,MI,FT,Data Scientist,70000,GBP,GB,0,GB,M
+89,2022,EN,CT,Applied Machine Learning Scientist,29000,EUR,TN,100,CZ,M
+91,2022,MI,FT,Data Scientist,150000,PLN,PL,100,PL,L
+92,2022,SE,FT,Research Scientist,85000,EUR,FR,50,FR,L
+97,2022,MI,FT,Data Scientist,88000,CAD,CA,100,CA,M
