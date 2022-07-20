@@ -52,8 +52,7 @@ The installation process is the next:
 ### :boom: **Final prediction**
 
 ```
-RMSE --> 48700,3 $
-
+**RMSE --> 48700,3 $**
 ```
 
 ![score](https://user-images.githubusercontent.com/35624830/179948810-938f1ee4-6915-4a6a-98bd-22a5db121092.JPG)
