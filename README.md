@@ -23,13 +23,14 @@ The installation process is the next:
 └── Kaggle-Data-Science-Predictor
     ├── .gitignore
     ├── data
-        ├──  
+        ├── kaggle_upload
+        ├── model_data
+        ├── old_data
     ├── nb
-        ├── data_extraction_income_tax.ipynb
-    ├── img
-        ├── 
+        ├── Predictor.ipynb
     ├── environment.yml
     ├── README.md   
+    ├── Salary_Predictor.pptx
 ```
 
 
@@ -43,13 +44,5 @@ The installation process is the next:
 
 
 ----
-### :pushpin: **Some insights**
-
-
-
-
----
-
-
-### :shit: **ToDo**
+### :boom: **Final prediction**
 
